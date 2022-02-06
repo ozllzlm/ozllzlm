@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozllzlm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<div><h1>📚 STACKS</h1></div>
+<h1>📚 STACKS</h1>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
