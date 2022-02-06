@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=200&section=header&text=LEE YE LIM&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=200&section=header&text=LEE_YE_LIM&fontSize=90&animation=fadeIn)
 
 
 ### Hi there 👋 My name is Yelim 😀
