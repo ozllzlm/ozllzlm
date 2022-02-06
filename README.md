@@ -13,11 +13,8 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
 
-<div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozllzlm)](https://github.com/anuraghazra/github-readme-stats)
-</div>
- <div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozllzlm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
